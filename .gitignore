@@ -1,0 +1,7 @@
+/target
+/crf_2b/target
+/dist
+crf_2b_bin
+*.zip
+*.tar.*
+Cargo.lock
